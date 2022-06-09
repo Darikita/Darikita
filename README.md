@@ -1,4 +1,4 @@
-# Dari-Vd-
+
 ![This is an image](utils/Banner.png)
  # Hola!
  ### Soy Dárika Valdez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!!
