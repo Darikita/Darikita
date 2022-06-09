@@ -30,9 +30,8 @@
     <a href = "https://git-scm.com/" > <img src = "utils/icons/git.svg" alt="git" width='40' height = '40'> </a>
     <a href = "https://github.com//" > <img src = "utils/icons/github.png" alt="github" width='40' height = '40'> </a>
     <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
-    <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40' height = '40'> </a>
-    <a href = "https://mui.com/" > <img src = "utils/icons/mui.png" alt="mui" width='40' height = '40'> </a>
-    <a href = "[https://tailwindcss.com/](https://sass-lang.com/)" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a>
+    <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40' h
+    <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a>
 
 </p>
  <p align="center">y muchas más por aprender!</p>
