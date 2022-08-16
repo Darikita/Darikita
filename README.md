@@ -35,3 +35,8 @@
 
 </p>
  <p align="center">y muchas más por aprender!</p>
+ <br></br>
+ 
+ ## Proyectos:
+-Dogs App  --> Full stack app que consume una API para mostrar y crear nuevas recetas! [Click here!](https://github.com/Darikita/PI-DOGS-FINAL)
+-HenryFilms  --> Front end! E-comerce de series y peliculas [Click here!](https://github.com/franxdd/henryfilm)
