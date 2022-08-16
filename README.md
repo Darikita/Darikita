@@ -35,18 +35,30 @@
 
 </p>
  <p align="center">y muchas más por aprender!</p>
+   
+ <br></br>
+  ## Acerca de mi:
+  
+💻 Desarrolladora Web Full Stack e Ingeniera Comercial apasionada por el diseño UI y FrontEnd.
+
+🙋🏻‍♀️ Soy una persona comprometida con mi trabajo y estudio, responsable, dinámica, sencilla y creativa, con capacidad de trabajar en equipo y bajo presión con una    gran iniciativa de resolver problemas y colaborar constantemente, competitiva y apasionada por lo que hago así logro cumplir con eficiencia mis metas y objetivos. Por  lo que puedo adaptarme fácilmente a cualquier reto o entorno.
+
+🔎 Hoy continúo formandome como programadora, aprendiendo nuevas tecnologías y adquiriendo nuevos conociemientos. 
+
+Quieres saber más de mi? Contactame! 🙌
+
+📧 mail: darikavaldez@gmail.com
+  
  <br></br>
  
  ## Proyectos:
  
- <h2> Dogs App </h2>
+<h2> Dogs App </h2>
 
 <h4> Desarrollada con: </h4>
 <ul>
-  <h5>|--| FrontEnd |--|</h5>
     <li>React</li>
     <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
     <li>NodeJs</li>
     <li>Express</li>
     <li>Sequelize</li>
@@ -55,4 +67,20 @@
 Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (The Dog Api) la cual nos brinda una lista detallada de razas de perros, los cuales, vamos a poder filtrar por género, ordenar por nombre, rating, entre otras, se pueden buscar razas, y crear las propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar las razas de perros que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
 Pueden ver el video, haciendo click <a href="https://www.youtube.com/watch?v=Bm7dKEN4_6M&t=34s">aquí</a>
  <br></br>
--HenryFilms  --> Front end! E-comerce de series y peliculas [Click here!](https://github.com/franxdd/henryfilm)
+ 
+ <h2> E-commerce HenryFilms </h2>
+ <h4> Desarrollado con: </h4>
+<ul>
+    <li>React</li>
+    <li>Redux</li>
+    <li>Sass</li>
+    <li>NodeJs</li>
+    <li>Express</li>
+    <li>Sequelize</li>
+    <li>PostgreSQL</li>
+    <li>Cloudinary </li>
+ 
+</ul>
+-HenryFilms  --> Front end! E-comerce de series y peliculas [Click aqui!](https://github.com/franxdd/henryfilm)
+El proyecto consiste en una aplicación que permite ver las series y peliculas con una información detallada de cada uno al darle click en este. Tiene un sistema de autenticación con login, register y login con google. Cuenta con roles user y admin. El usuario, puede hacer compras, editar su perfil, agregar a favoritos. El panel del admin tiene la opcion de crear, editar y borrar un producto ademas hacer un control de ususarios registrados.
+
