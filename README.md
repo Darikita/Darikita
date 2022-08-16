@@ -24,11 +24,11 @@
     <a href = "https://nodejs.org/en/" > <img src = "utils/icons/nodejs.svg" alt="node" width='40' height = '40'> </a>
     <a href = "https://reactjs.org/" > <img src = "utils/icons/react.svg" alt="react" width='40' height = '40'> </a>
     <a href = "https://redux.js.org/" > <img src = "utils/icons/redux.svg" alt="redux" width='40' height = '40'> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-     generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
     <a href = "https://postgresql.org/" > <img src = "utils/icons/postgresql.svg" alt="postgresql" width='40' height = '40'> </a>
     <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a>
-    <a href = "https://git-scm.com/" > <img src = "utils/icons/git.svg" alt="git" width='40' height = '40'> </a>
-    <a href = "https://github.com//" > <img src = "utils/icons/github.png" alt="github" width='40' height = '40' color='white'> </a>
+    <a href = "https://git-scm.com/" > <img src = "[utils/icons/git.svg](https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png)" alt="git" width='40' height = '40'> </a>
+    <a href = "https://github.com//" > <img src = "utils/icons/github.png" alt="github" width='40' height = '40' > </a>
     <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
     <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40'> </a>
     <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a>
