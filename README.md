@@ -28,7 +28,7 @@
     <a href = "https://postgresql.org/" > <img src = "utils/icons/postgresql.svg" alt="postgresql" width='40' height = '40'> </a>
     <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a>
     <a href = "https://git-scm.com/" > <img src = "utils/icons/git.svg" alt="git" width='40' height = '40'> </a>
-    <a href = "https://github.com//" > <img src = "utils/icons/github.png" alt="github" width='40' height = '40'> </a>
+    <a href = "https://github.com//" > <img src = "utils/icons/github.png" alt="github" width='40' height = '40' color='white'> </a>
     <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
     <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40'> </a>
     <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a>
