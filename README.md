@@ -41,7 +41,7 @@
   
 💻 Desarrolladora Web Full Stack e Ingeniera Comercial apasionada por el diseño UI y FrontEnd.
 
-🙋🏻‍♀️ Soy una persona comprometida con mi trabajo y estudio, responsable, dinámica, sencilla y creativa, con capacidad de trabajar en equipo y bajo presión con una    gran iniciativa de resolver problemas y colaborar constantemente, competitiva y apasionada por lo que hago así logro cumplir con eficiencia mis metas y objetivos. Por  lo que puedo adaptarme fácilmente a cualquier reto o entorno.
+🙋🏻‍♀️ Soy una persona comprometida con mi trabajo y estudio, responsable, dinámica, sencilla y creativa, con capacidad de trabajar en equipo y bajo presión con una    gran iniciativa de resolver problemas y colaborar constantemente, competitiva y apasionada por lo que hago así logro cumplir con eficiencia mis metas y objetivos.
 
 🔎 Hoy continúo formandome como programadora, aprendiendo nuevas tecnologías y adquiriendo nuevos conociemientos. 
 
