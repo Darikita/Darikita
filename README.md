@@ -28,7 +28,7 @@
     <a href = "https://postgresql.org/" > <img src = "utils/icons/postgresql.svg" alt="postgresql" width='40' height = '40'> </a>
     <a href = "https://sequelize.org/" > <img src = "utils/icons/sequelize.svg" alt="sequelize" width='40' height = '40'> </a>
     <a href = "https://git-scm.com/" > <img src = "utils/icons/git.svg" alt="git" width='40' height = '40'> </a>
-    <a href = "https://github.com//" > <img src = "utils/icons/git.png" alt="github" width='50' height = '40' > </a>
+    <a href = "https://github.com//" > <img src = "utils/icons/git.png" alt="github" width='60' height = '40' > </a>
     <a href = "https://www.postman.com/" > <img src = "utils/icons/postman.svg" alt="postman" width='37' height = '37'> </a>
     <a href = "https://getbootstrap.com/" > <img src = "utils/icons/bootstrap.svg" alt="bootstrap" width='40'> </a>
     <a href = "https://sass-lang.com/" > <img src = "utils/icons/sass.png" alt="sass" width='40' height = '40'> </a>
@@ -62,7 +62,7 @@ Quieres saber más de mi? Contactame! 🙌
     <li>Sequelize</li>
     <li>PostgreSQL</li>
 </ul>
-Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (The Dog Api) la cual nos brinda una lista detallada de razas de perros, los cuales, vamos a poder filtrar por género, ordenar por nombre, rating, entre otras, se pueden buscar razas, y crear las propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar las razas de perros que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
+Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (The Dog Api) la cual nos brinda una lista detallada de razas de perros, los cuales, vamos a poder filtrar por género, ordenar por nombre, temperamentos entre otras, se pueden buscar razas, y crear las propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar las razas de perros que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
 Pueden ver el video, haciendo click <a href="https://www.youtube.com/watch?v=Bm7dKEN4_6M&t=34s">aquí</a>
  <br></br>
  
