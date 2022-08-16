@@ -49,8 +49,6 @@ Quieres saber más de mi? Contactame! 🙌
 
 📧 mail: darikavaldez@gmail.com
   
- <br></br>
- 
  ## Proyectos:
  
 <h2> Dogs App </h2>
