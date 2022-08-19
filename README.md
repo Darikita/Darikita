@@ -11,7 +11,7 @@
  <b><i> Mi perfil en LinkedIn</i></b>
 </p>
 <p align="left">
- <a href="https://www.linkedin.com/in/d%C3%A1rika-valdez-a367481a8/" target="blank">
+ <a href="https://darika-valdez.vercel.app/" target="blank">
   <img align="center" src="utils/icons/logo.png" alt="Dárika Valdez" height="35" width="35" /></a>
  <b><i> Mi portafolio</i></b>
 </p>
