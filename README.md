@@ -68,7 +68,7 @@ Pueden ver el video, haciendo click <a href="https://www.youtube.com/watch?v=Bm7
  
  <h2> E-commerce HenryFilms </h2>
 
-  <img align="center" src="https://res.cloudinary.com/dgx6joxrx/image/upload/v1661565260/github/henryfilmsgif_gosoh2.gif" alt="gif" />
+  <img align="center" src="https://res.cloudinary.com/dgx6joxrx/image/upload/v1661562307/henryfilmsgif_xjgkep.gif" alt="gif" />
 
  <h4> Desarrollado con: </h4>
 <ul>
