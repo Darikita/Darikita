@@ -70,7 +70,6 @@ Pueden ver el video, haciendo click <a href="https://www.youtube.com/watch?v=Bm7
 
   <img align="center" src="https://res.cloudinary.com/dgx6joxrx/image/upload/v1661562307/henryfilms/henryfilmsgif_xjgkep.gif" alt="henryfilms" />
 
-
  <h4> Desarrollado con: </h4>
 <ul>
     <li>React</li>
