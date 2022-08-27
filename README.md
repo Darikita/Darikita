@@ -65,10 +65,10 @@ Quieres saber más de mi? Contactame! 🙌
 Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (The Dog Api) la cual nos brinda una lista detallada de razas de perros, los cuales, vamos a poder filtrar por género, ordenar por nombre, temperamentos entre otras, se pueden buscar razas, y crear las propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar las razas de perros que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
 Pueden ver el video, haciendo click <a href="https://www.youtube.com/watch?v=Bm7dKEN4_6M&t=34s">aquí</a>
  <br></br>
- 
+
  <h2> E-commerce HenryFilms </h2>
 
-  <img align="center" src="utils/henryfilmsgif.gif" alt="gif" />
+  <img align="center" src="utils/henryfilmsgif.gif" alt="gif" widht="100%"/>
 
  <h4> Desarrollado con: </h4>
 <ul>
