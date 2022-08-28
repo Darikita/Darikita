@@ -1,5 +1,5 @@
 
-![This is an image](utils/Banner.png)
+ <img src="utils/Banner1.gif" alt="gif"/>
  # Hola!
  ### Soy Dárika Valdez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!!
 
