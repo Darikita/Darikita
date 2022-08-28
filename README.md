@@ -53,6 +53,8 @@ Quieres saber más de mi? Contactame! 🙌
  
 <h2> Dogs App </h2>
 
+  <img src="utils/dogsgif.gif" alt="gif"/>
+
 <h4> Desarrollada con: </h4>
 <ul>
     <li>React</li>
