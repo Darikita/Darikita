@@ -1,5 +1,5 @@
 
-<img src="https://res.cloudinary.com/dgx6joxrx/image/upload/v1662517811/Banner2_ew8xvp.gif" alt="gif"/>
+<img src="https://res.cloudinary.com/dgx6joxrx/image/upload/v1662518057/Banner2_wsk5s9.gif" alt="gif"/>
 
  # Hola!
  ### Soy Dárika Valdez (Full Stack Developer) me encanta el mundo de la programación sobretodo el Front End!!
